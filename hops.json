@@ -1,0 +1,36 @@
+// FermentationJSON - Hops
+
+{"hop" : {
+	"name" 	     : "Ahtanum",
+	"version"    :	1,
+	"description": "Ahtanum™ (YCR 1 cv.) is an aroma-type cultivar bred by
+					Yakima Chief Ranches. It is used for its aromatic properties
+					and moderate bittering. The variety is named after the
+					location where Charles Carpenter established the first hop
+					farm in the Yakima Valley in 1869.",
+	"origin"     : "Yakima Valley, Washington, USA",
+	"alpha"      : 5.0,
+	"beta"       : 5.7,
+	"cohumulone" : 33,
+	"totalOils"	 : 1.0,
+	"myrcene"	 : 53,
+	"caryophyllene" : 10.5,
+	"humulene"   : 18,
+	"farnesene"  : 0,
+	"storage"    : 60,  // % alpha acids remaining after 6 months storage at 20° C
+	"storageFactor" : "unknown", // need to figure this one out
+	"substitutes": "Cascade",
+	"type"       : "Aroma",
+	"form"       : "pellet",
+	"storedFor"  : 137, // days; used for aa degredation
+	"storageTemp": {	
+		"value" : 8,
+		"unit"  : "C"
+		},
+	"weight" : {	
+		"value" : 2.0,
+		"unit"  : "oz"
+		},
+	"use"        : "Dry Hop",
+	"boilTime"   : 1	
+}
